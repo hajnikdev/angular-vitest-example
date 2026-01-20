@@ -1,0 +1,77 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CounterComponent snapshot > matches after increment 1`] = `
+<div
+  _nghost-a-c3694325091=""
+  id="root1"
+  ng-version="21.1.0"
+>
+  <div
+    _ngcontent-a-c3694325091=""
+    class="counter"
+  >
+    <button
+      _ngcontent-a-c3694325091=""
+      type="button"
+    >
+      -
+    </button>
+    <span
+      _ngcontent-a-c3694325091=""
+      class="value"
+    >
+      0
+    </span>
+    <button
+      _ngcontent-a-c3694325091=""
+      type="button"
+    >
+      +
+    </button>
+  </div>
+  <button
+    _ngcontent-a-c3694325091=""
+    type="button"
+  >
+    Reset
+  </button>
+</div>
+`;
+
+exports[`CounterComponent snapshot > matches the initial render 1`] = `
+<div
+  _nghost-a-c3694325091=""
+  id="root0"
+  ng-version="21.1.0"
+>
+  <div
+    _ngcontent-a-c3694325091=""
+    class="counter"
+  >
+    <button
+      _ngcontent-a-c3694325091=""
+      type="button"
+    >
+      -
+    </button>
+    <span
+      _ngcontent-a-c3694325091=""
+      class="value"
+    >
+      0
+    </span>
+    <button
+      _ngcontent-a-c3694325091=""
+      type="button"
+    >
+      +
+    </button>
+  </div>
+  <button
+    _ngcontent-a-c3694325091=""
+    type="button"
+  >
+    Reset
+  </button>
+</div>
+`;
